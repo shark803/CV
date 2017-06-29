@@ -145,26 +145,19 @@
 
                     <li>
                         <h3>已发表的文章</h3>
- 			<p>1）IRMS: Intelligent Rule Management for Software Defined Networking （Infocom Workshop 2017）</p>
-                        <p>2）FICUS: Fast Incremental Consistent Update in SDN based on Relation Graph  （被IWQoS 2016 收录,学生一作，做会议演讲报告）
+ 			<p>1）IRMS: Intelligent Rule Management for Software Defined Networking （已被Infocom Workshop 2017录用，学生一作，做会议演讲报告）</p>
+                           <p>2）A Fast and Incremental Update Mechanism for SDN based on Relation Graph （已发表于Computer Networks，学生一作，通讯作者）
                         </p>
-						<p>3）Towards Mitigating Link Flooding Attack Via Incremental SDN Deployment (被ISCC 2016 收录，一作，做会议演讲报告)
+                        <p>3）FICUS: Fast Incremental Consistent Update in SDN based on Relation Graph  （被IWQoS 2016 收录,学生一作，做会议演讲报告）
                         </p>
-						<p>4）Priority-based and Throughput-guaranteed Transport Protocol for Data Center Networks （被ISCC 2016 收录，非一作，作会议演讲报告）
+						<p>4）Towards Mitigating Link Flooding Attack Via Incremental SDN Deployment (被ISCC 2016 收录，一作，做会议演讲报告)
                         </p>
-						<p>5）A Declarative Failure Recovery System in Software Defined Networks （被ICC 2016 收录，非一作）
+						<p>5）Priority-based and Throughput-guaranteed Transport Protocol for Data Center Networks （被ISCC 2016 收录，非一作，作会议演讲报告）
+                        </p>
+						<p>6）A Declarative Failure Recovery System in Software Defined Networks （被ICC 2016 收录，非一作）
                         </p>
                     </li>
-					  <li>
-                        <h3>在投和将投论文</h3>
-                         <p>     6）S5: An Application Sensitive QoS Assurance System via SDN （已投IWQoS 2017）
-                        </p>
-						<p>7）A Fast and Incremental Update Mechanism for SDN based on Relation Graph （已投Computer Networks，学生一作，通讯作者）
-                        </p>
-						<p>8）软件定义网络安全问题研究综述 （将投软件学报，一作）
-                        </p>
-						
-                    </li>
+		　　　　
 					 <li>
                         <h3>专利</h3>
                         <p>1）一种基于增量部署SDN网络的链路洪泛攻击的防御方法 （发明专利，已公开，专利号201511029017.0，学生一作）
